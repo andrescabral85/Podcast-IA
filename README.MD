@@ -94,4 +94,4 @@ andre-s-cabral">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
