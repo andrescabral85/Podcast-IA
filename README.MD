@@ -77,7 +77,7 @@ Leonardo.AI：
       width=80 
       src="https://avatars.githubusercontent.com/u/126682540?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAndré Cabral<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/andrescabral85">
     GitHub</a>&nbsp;|&nbsp;
