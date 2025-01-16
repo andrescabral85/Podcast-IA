@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="\Podcast_Genealogia.mp3" controls title="Podcast editado"></audio>
+    <a href="\Podcast_Genealogia.mp3>Podcast editado></a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
